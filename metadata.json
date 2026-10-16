@@ -1,0 +1,6 @@
+{
+  "name": "La Academia FC27 - Discord Bot & Multiverse Ops",
+  "description": "Discord Bot management console, recruitment trial submissions, Pro Clubs multiverse squad architecture, and live webhook dispatch for La Academia FC27.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

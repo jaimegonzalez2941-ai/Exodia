@@ -1,0 +1,17 @@
+{
+  "name": "la-academia-discord-bot",
+  "version": "1.0.0",
+  "description": "Production Moderation & Community Discord Bot for La Academia FC27",
+  "main": "moderation-bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node moderation-bot.js",
+    "mod": "node moderation-bot.js",
+    "multiverse": "node multiverse-bot.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
